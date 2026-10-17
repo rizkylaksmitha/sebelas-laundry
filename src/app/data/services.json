@@ -1,0 +1,23 @@
+{
+  "reguler": {
+    "estimasi": "Masuk Hari Ini, Besok Jadi (1 Hari)",
+    "items": [
+      { "nama": "Cuci + Setrika", "harga": "Rp5.000 / kg" },
+      { "nama": "Setrika Saja", "harga": "Rp3.000 / kg" },
+      { "nama": "Selimut / Sprei", "harga": "Rp10.000 / pcs" },
+      { "nama": "Bed Cover Kecil", "harga": "Rp15.000 / pcs" },
+      { "nama": "Bed Cover Sedang", "harga": "Rp20.000 / pcs" },
+      { "nama": "Bed Cover Besar", "harga": "Rp25.000 / pcs" }
+    ]
+  },
+  "ekspres": {
+    "estimasi": "Masuk Hari Ini, Selesai Hari Yang Sama (Same Day)",
+    "items": [
+      { "nama": "Cuci + Setrika Ekspres", "harga": "Rp6.000 / kg" },
+      { "nama": "Setrika Saja Ekspres", "harga": "Rp4.000 / kg" },
+      { "nama": "Selimut / Sprei Ekspres", "harga": "Rp15.000 / pcs" },
+      { "nama": "Bed Cover Kecil Ekspres", "harga": "Rp20.000 / pcs" },
+      { "nama": "Bed Cover Sedang & Besar Ekspres", "harga": "Rp25.000 / pcs" }
+    ]
+  }
+}
